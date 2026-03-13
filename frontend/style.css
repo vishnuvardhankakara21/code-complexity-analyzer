@@ -1,0 +1,22 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f4f4f4;
+}
+
+textarea{
+width:70%;
+height:200px;
+margin:20px;
+padding:10px;
+}
+
+button{
+padding:10px 20px;
+font-size:16px;
+cursor:pointer;
+}
+
+h2{
+color:green;
+}
